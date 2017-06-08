@@ -79,3 +79,6 @@ I would like to be able to delete the posts I have created
 
 ### Running the test suite
 * Running RSpec: `$ rspec`
+
+### Starting the server
+* Make sure you are in the project directory, then run: `bin/rails server`
